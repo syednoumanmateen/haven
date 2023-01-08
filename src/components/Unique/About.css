@@ -1,0 +1,24 @@
+.img1 {
+  position: absolute;
+  bottom: -115px !important;
+}
+
+.img2 {
+  position: absolute;
+  top: -55px !important;
+  right: 80px !important;
+}
+
+.img3 {
+  position: absolute;
+  top: -145px !important;
+  left: 115px !important;
+}
+
+.border {
+  border: 10px solid white!important;
+}
+
+.img {
+  position: relative;
+}
